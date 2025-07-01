@@ -1,6 +1,14 @@
+# Pliki klas (kompilowane)
 *.class
-*.jar
-*.war
-*.ear
+
+# Foldery IntelliJ IDEA
+/.idea/
 /out/
-target/
+
+# Pliki tymczasowe Windows
+Thumbs.db
+.DS_Store
+
+# Folder build (jeśli używasz build tools)
+/build/
+/target/
