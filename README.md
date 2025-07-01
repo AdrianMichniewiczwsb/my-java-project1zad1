@@ -21,3 +21,4 @@ my-java-project1zad1/
 
 ## Licencja
 MIT
+
